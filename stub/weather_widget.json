@@ -1,0 +1,103 @@
+{
+  "data": {
+    "altitude": 358,
+    "city_name": "Ligornetto",
+    "current": {
+      "temperature": "7",
+      "weather_symbol_id": "2"
+    },
+    "coord_x": 2717521,
+    "coord_y": 1080077,
+    "weather_symbol_id": 20,
+    "location_id": "685300",
+    "forecasts": [
+      {
+        "precip_max": "0.0",
+        "noon": 1761476400000,
+        "precip_min": "0.0",
+        "temp_high": "16",
+        "weekday": "Sunday",
+        "temp_low": "6",
+        "precip_mean": "0.0",
+        "weather_symbol_id": "2"
+      },
+      {
+        "precip_max": "0.0",
+        "noon": 1761562800000,
+        "precip_min": "0.0",
+        "temp_high": "15",
+        "weekday": "Monday",
+        "temp_low": "4",
+        "precip_mean": "0.0",
+        "weather_symbol_id": "2"
+      },
+      {
+        "precip_max": "0.0",
+        "noon": 1761649200000,
+        "precip_min": "0.0",
+        "temp_high": "18",
+        "weekday": "Tuesday",
+        "temp_low": "6",
+        "precip_mean": "0.0",
+        "weather_symbol_id": "1"
+      },
+      {
+        "precip_max": "3.4",
+        "noon": 1761735600000,
+        "precip_min": "0.0",
+        "temp_high": "15",
+        "weekday": "Wednesday",
+        "temp_low": "5",
+        "precip_mean": "0.6",
+        "weather_symbol_id": "35"
+      },
+      {
+        "precip_max": "16.5",
+        "noon": 1761822000000,
+        "precip_min": "0.2",
+        "temp_high": "14",
+        "weekday": "Thursday",
+        "temp_low": "10",
+        "precip_mean": "5.3",
+        "weather_symbol_id": "17"
+      },
+      {
+        "precip_max": "41.7",
+        "noon": 1761908400000,
+        "precip_min": "0.0",
+        "temp_high": "15",
+        "weekday": "Friday",
+        "temp_low": "10",
+        "precip_mean": "9.5",
+        "weather_symbol_id": "17"
+      },
+      {
+        "precip_max": "8.0",
+        "noon": 1761994800000,
+        "precip_min": "0.0",
+        "temp_high": "16",
+        "weekday": "Saturday",
+        "temp_low": "10",
+        "precip_mean": "0.1",
+        "weather_symbol_id": "3"
+      },
+      {
+        "precip_max": "24.3",
+        "noon": 1762081200000,
+        "precip_min": "0.0",
+        "temp_high": "17",
+        "weekday": "Sunday",
+        "temp_low": "10",
+        "precip_mean": "0.4",
+        "weather_symbol_id": "3"
+      }
+    ],
+    "timestamp": 1761463019
+  },
+  "config": {
+    "name": "weather-widget",
+    "language": "en",
+    "version": "1.0.0",
+    "timestamp": 1761463019
+  }
+}
