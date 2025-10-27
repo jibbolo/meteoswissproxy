@@ -2,6 +2,17 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.2.0 - 2025-10-27
+#### Build system
+- Add Dockerfile - (71ae110) - Giacomo Marinangeli
+#### Features
+- add readme and stubs for testing - (c906fe2) - Giacomo Marinangeli
+#### Miscellaneous Chores
+- add gitignore - (498cd56) - Giacomo Marinangeli
+- add mit license - (a5372fb) - Giacomo Marinangeli
+
+- - -
+
 ## v0.1.0 - 2025-10-26
 
 - - -
